@@ -1,0 +1,1 @@
+# LSTM-ile-metin-retimi
